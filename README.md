@@ -1,6 +1,6 @@
 <h2 align="center"> 💻 Kaique Amaral </br> IT and Dev Juninho ✨ </h2>
 
-**` Desenvolvedor em Desenvolvimento 🤣 `**
+**` Developer in Development 🤣 `**
 
 Student of Software Engineer - UCSal
 
